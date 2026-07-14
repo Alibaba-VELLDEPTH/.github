@@ -45,8 +45,6 @@ We focus on **Vision-Language Models**, **Diffusion & Generative Models**, and *
 - [TC-Padé](https://arxiv.org/pdf/2603.02943) — trajectory-consistent rational approximation for diffusion acceleration
 - [Diffusion Probe](https://arxiv.org/abs/2602.23783) — early-stage generation quality prediction
 
-**[2024.12]** 🎉 [AttentiveEraser](https://github.com/Alibaba-VELLDEPTH/AttentiveEraser) accepted as **AAAI 2025 Oral**
-
 ---
 
 ## 📬 Contact
