@@ -35,12 +35,12 @@ We focus on **Vision-Language Models**, **Diffusion & Generative Models**, and *
 
 ## 📰 News
 
-**[2025.06]** 🎉 Three papers accepted to **ACL 2026 Main Conference**:
+**[2026.06]** 🎉 Three papers accepted to **ACL 2026 Main Conference**:
 - *Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts*
 - [Why Steering Works: Toward a Unified View of Language Model Parameter Dynamics](https://arxiv.org/pdf/2602.02343)
 - [How Controllable Are Large Language Models? A Unified Evaluation across Behavioral Granularities](https://arxiv.org/pdf/2603.02578)
 
-**[2025.03]** 🎉 Three papers accepted to **CVPR 2026 Main Conference**:
+**[2026.03]** 🎉 Three papers accepted to **CVPR 2026 Main Conference**:
 - *SimplePoster* — faithful subject preservation + position-controllable text rendering
 - [TC-Padé](https://arxiv.org/pdf/2603.02943) — trajectory-consistent rational approximation for diffusion acceleration
 - [Diffusion Probe](https://arxiv.org/abs/2602.23783) — early-stage generation quality prediction
